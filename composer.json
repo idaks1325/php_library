@@ -1,0 +1,33 @@
+{
+  "name": "idaks1325/php_library",
+  "type": "library",
+  "description": "easy creation of Japan prefecture list",
+  "keywords": [],
+  "homepage": "https://github.com/idaks1325/php_library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ryofujimoto",
+      "email": "ryo.fujimoto@caters.co.jp",
+      "homepage": "https://github.com/idaks1325"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/idaks1325/php_library.git"
+    }
+  ],
+  "config": {
+    "secure-http": false
+  },
+  "require": {
+    "php": ">=5.6",
+    "phpunit/phpunit": "^5|^6"
+  },
+  "autoload": {
+    "psr-4": {
+      "Utility\\": "src"
+    }
+  }
+}
