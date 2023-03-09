@@ -1,5 +1,5 @@
 <?php
-namespace Utility;
+namespace FrUtility;
 
 class CusArray {
     /**

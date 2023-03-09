@@ -1,7 +1,7 @@
 <?php
-namespace Utility;
+namespace FrUtility;
 
-use Utility\CusArray;
+use FrUtility\CusArray;
 
 class CusDictionary {
     /**

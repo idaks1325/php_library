@@ -1,8 +1,8 @@
 <?php
 
 use PHPUnit\Framework\TestCase;
-use Utility\Prefecturer;
-use Utility\CusArray;
+use FrUtility\Prefecturer;
+use FrUtility\CusArray;
 
 class PrefecturerTest extends TestCase {
     // protected function setUp() :void {

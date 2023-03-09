@@ -1,7 +1,7 @@
 <?php
-namespace Utility;
+namespace FrUtility;
 
-use Utility\CusDictionary;
+use FrUtility\CusDictionary;
 
 /**
  * Class Prefecturer
