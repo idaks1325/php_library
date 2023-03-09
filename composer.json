@@ -1,5 +1,5 @@
 {
-  "name": "idaks1325/php_library",
+  "name": "idaks1325/phplibrary",
   "type": "library",
   "description": "easy creation of Japan prefecture list",
   "keywords": [],
@@ -14,8 +14,8 @@
   ],
   "repositories": [
     {
-      "type": "vcs",
-      "url": "https://github.com/idaks1325/php_library.git"
+      "type": "git",
+      "url": "https://github.com/idaks1325/php_library"
     }
   ],
   "config": {
